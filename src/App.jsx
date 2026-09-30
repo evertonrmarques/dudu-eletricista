@@ -43,7 +43,7 @@ export default function App() {
             <div className="hero-copy">
               <div className="eyebrow"><span /> ELETRICISTA LOCAL · POÇO REDONDO - SE</div>
               <h1>Serviço elétrico bem cuidado, do jeito que precisa.</h1>
-              <p>Instalações, manutenção, iluminação, quadros e correções para sua casa, comércio ou empresa, com atendimento a domicílio em Poço Redondo.</p>
+              <p>Instalações, manutenção, iluminação, quadros e correções para sua casa, comércio ou empresa em Poço Redondo.</p>
               <div className="hero-actions">
                 <a className="button button-primary" href={whatsappUrl} target="_blank" rel="noreferrer">
                   <MessageCircle size={18} /> Falar no WhatsApp <ArrowRight size={17} />
@@ -53,7 +53,6 @@ export default function App() {
               <div className="trust-row">
                 <div><Check size={16}/> Atendimento local</div>
                 <div><Check size={16}/> Residencial e comercial</div>
-                <div><Check size={16}/> A domicílio</div>
               </div>
             </div>
 
